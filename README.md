@@ -1,4 +1,4 @@
-This is a group project completed by Yiqi Rao and Haosheng Wang, which aims to analyze factors which affect music genres and classify genres based on audio temporal data.
+This is a group project completed by Yiqi Rao and Haosheng Wang, which aims to analyze factors that affect popularity and geographical differences between music genres, and also perform classification of music genres based on audio temporal data by leveraging machine learning models implemented using pyspark.
 
 To be clear, here're the descriptions of the functionalities of all folders in folder [code](https://github.com/ryqherry/Big-Data-Project/tree/main/code):
 
