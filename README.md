@@ -1,4 +1,6 @@
-Here're the descriptions of each folder:
+This is a group project completed by Yiqi Rao and Haosheng Wang, which aims to analyze factors which affect music genres and classify genres based on audio temporal data.
+
+To be clear, here're the descriptions of the functionalities of all folders in folder [code](https://github.com/ryqherry/Big-Data-Project/tree/main/code):
 
 1. ana_code:
 	- contains a simple data analysis of genres.csv and pyspark code (Pyspark_Based_Genre_Classification.ipynb) which utilizes machine learning library for music genre classification task based on features data extracted from echonest_clean.csv and features_clean.csv.
